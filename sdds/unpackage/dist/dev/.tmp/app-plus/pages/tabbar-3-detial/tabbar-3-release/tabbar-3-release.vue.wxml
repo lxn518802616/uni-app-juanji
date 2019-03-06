@@ -1,0 +1,1 @@
+<import src="/components/sunsin-upimg.vue.wxml" /><template name="67b52daf"><view class="_view 67b52daf content"><template url="http://www.luoxiaoning.top:3000/wxxcxnode/uploadImg" bindonUpImg="handleProxy" data-eventid="{{'67b52daf-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'67b52daf-0'],$root}}" is="7cf074f0"></template></view></template>

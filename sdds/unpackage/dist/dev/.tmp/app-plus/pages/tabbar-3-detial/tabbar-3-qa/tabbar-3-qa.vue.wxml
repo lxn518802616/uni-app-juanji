@@ -1,0 +1,1 @@
+<template name="0a7fcaa3"><view class="_view 0a7fcaa3 content"><image src="{{srcs}}" mode="scaleToFill" class="_image 0a7fcaa3"></image><button type="primary" bindtap="handleProxy" data-eventid="{{'0a7fcaa3-0'}}" data-comkey="{{$k}}" class="_button 0a7fcaa3">上传图片</button></view></template>

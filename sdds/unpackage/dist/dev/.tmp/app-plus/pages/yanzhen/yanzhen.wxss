@@ -1,0 +1,12 @@
+
+.logoimg {
+	margin-top: 30%;
+	width: 400rpx;
+	height: 400rpx;
+	border-radius: 50%;
+}
+.title{
+	font-size: 100rpx;
+	color:#BBBBBB;
+}
+

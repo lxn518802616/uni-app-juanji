@@ -1,0 +1,47 @@
+
+.content {
+	/* text-align: center; */
+	/* height: 400upx; */
+	/* margin-top: 200upx; */
+}
+.uni-bg-green{
+	background-color: green;
+}
+.uni-bg-red{
+	background-color: red;
+}
+.uni-bg-blue{
+	background-color: blue;
+}
+.swiper-item{
+	width: 100%;
+	height: 400rpx;
+	text-align: center;
+	line-height: 400rpx;
+}
+.swiper{
+	height: 400rpx;
+}
+.newapptit{
+	margin-top: 60rpx;
+}
+.newtitlenow{
+	margin-left: 40rpx;
+	margin-bottom: 20rpx;
+	font-size: 45rpx;
+	display: block;
+}
+.setde{
+	height: 60rpx;
+}
+.gebnduo{
+/* 	position: absolute;
+	right: 0upx;
+	top: 460upx; */
+	float: right;
+	margin-right: 20rpx;
+	margin-top: -10px;
+	font-size: 34rpx;
+	color: #353535;
+}
+
